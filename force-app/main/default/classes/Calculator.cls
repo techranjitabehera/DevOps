@@ -12,7 +12,7 @@ public with sharing class Calculator {
 
     public static Integer addition2(Integer num1, Integer num2, Integer num3)
     {
-        return num1+num3;
+        return num1+num2;
     }
    
 }
