@@ -1,7 +1,7 @@
 public with sharing class Calculator {
-    public static Integer addition(Integer num1, Integer num2)
+    public static Integer subtraction(Integer num1, Integer num2)
     {
-        return num1+num2;
+        return num1-num2;
     }
    
 }
