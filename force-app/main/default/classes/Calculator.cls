@@ -5,14 +5,18 @@
  *****************************************************************************/
 
 public with sharing class Calculator {
+
     public static Integer addition(Integer num1, Integer num2, Integer num3)
     {
         return num1+num2+num3;
     }
 
     public static Integer addition2(Integer num1, Integer num2, Integer num3)
+
+    public static Integer subtraction(Integer num1, Integer num2)
+
     {
-        return num1+num2;
+        return num1-num2;
     }
    
 }
